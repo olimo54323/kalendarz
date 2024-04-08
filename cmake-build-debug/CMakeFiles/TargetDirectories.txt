@@ -1,0 +1,3 @@
+C:/Users/wrobl/source/repos/Private/projekt_PK/cmake-build-debug/CMakeFiles/projekt_PK.dir
+C:/Users/wrobl/source/repos/Private/projekt_PK/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wrobl/source/repos/Private/projekt_PK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
